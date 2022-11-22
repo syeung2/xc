@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "xc"
+  site-url: "https://syeung2.github.io/xc"
+  description: "cross country blog site"
+  repo-branch: main
+  repo-url: "https://github.com/syeung2/xc"
