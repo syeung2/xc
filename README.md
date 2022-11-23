@@ -8,6 +8,10 @@ documentation.
 
 ## Install
 
+- test 1
+- 2
+- 3
+
 ``` sh
 pip install xc
 ```
